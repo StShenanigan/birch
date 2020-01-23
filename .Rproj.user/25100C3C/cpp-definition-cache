@@ -1,0 +1,470 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.cc",
+                "kind" : 6,
+                "line" : 146,
+                "name" : "_birch_free(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:ll.cc@F@_birch_free#*$@S@SEXPREC#"
+            }
+        ],
+        "file" : "/home/stuart/GitStuff/birch/src/ll.cc",
+        "file_last_write" : 1579727697
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 10,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 3,
+                "line" : 30,
+                "name" : "CF",
+                "parent_name" : "",
+                "usr" : "c:@S@CF"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 2,
+                "line" : 40,
+                "name" : "Leaf",
+                "parent_name" : "",
+                "usr" : "c:@C@Leaf"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 80,
+                "name" : "getCF",
+                "parent_name" : "Leaf",
+                "usr" : "c:@C@Leaf@F@getCF#"
+            },
+            {
+                "column" : 10,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 83,
+                "name" : "getRadius",
+                "parent_name" : "Leaf",
+                "usr" : "c:@C@Leaf@F@getRadius#"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 86,
+                "name" : "getN",
+                "parent_name" : "Leaf",
+                "usr" : "c:@C@Leaf@F@getN#"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 2,
+                "line" : 98,
+                "name" : "Node",
+                "parent_name" : "",
+                "usr" : "c:@C@Node"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 138,
+                "name" : "incrementNchilds",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@incrementNchilds#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 141,
+                "name" : "decrementNchilds",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@decrementNchilds#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 144,
+                "name" : "setNchilds(int)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@setNchilds#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 147,
+                "name" : "setNobs(int)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@setNobs#I#"
+            },
+            {
+                "column" : 10,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 150,
+                "name" : "getParent",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@getParent#"
+            },
+            {
+                "column" : 16,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 172,
+                "name" : "isLeafNode",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@isLeafNode#"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 175,
+                "name" : "getNchilds",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@getNchilds#"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 178,
+                "name" : "getNobs",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@getNobs#"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 2,
+                "line" : 202,
+                "name" : "LeafNode",
+                "parent_name" : "",
+                "usr" : "c:@C@LeafNode"
+            },
+            {
+                "column" : 16,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 7,
+                "line" : 231,
+                "name" : "isLeafNode",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@isLeafNode#"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 6,
+                "line" : 244,
+                "name" : "square(double)",
+                "parent_name" : "",
+                "usr" : "c:@F@square#d#"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 6,
+                "line" : 247,
+                "name" : "mdebug1(const char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@mdebug1#*1C#"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 6,
+                "line" : 252,
+                "name" : "mdebug2(const char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@mdebug2#*1C#"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 6,
+                "line" : 257,
+                "name" : "mdebug3(const char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@mdebug3#*1C#"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+                "kind" : 6,
+                "line" : 262,
+                "name" : "mdebug4(const char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@mdebug4#*1C#"
+            }
+        ],
+        "file" : "/home/stuart/GitStuff/birch/src/ll.h",
+        "file_last_write" : 1579727697
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Leaf.cc",
+                "kind" : 7,
+                "line" : 75,
+                "name" : "addToLeaf(CF, double, int)",
+                "parent_name" : "Leaf",
+                "usr" : "c:@C@Leaf@F@addToLeaf#$@S@CF#d#I#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Leaf.cc",
+                "kind" : 7,
+                "line" : 95,
+                "name" : "CalcDistance(double *)",
+                "parent_name" : "Leaf",
+                "usr" : "c:@C@Leaf@F@CalcDistance#*d#"
+            },
+            {
+                "column" : 10,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Leaf.cc",
+                "kind" : 7,
+                "line" : 109,
+                "name" : "CalcNewCF(const double *)",
+                "parent_name" : "Leaf",
+                "usr" : "c:@C@Leaf@F@CalcNewCF#*1d#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Leaf.cc",
+                "kind" : 7,
+                "line" : 129,
+                "name" : "returnData(SEXP *, SEXP *, SEXP *, SEXP *, int)",
+                "parent_name" : "Leaf",
+                "usr" : "c:@C@Leaf@F@returnData#**$@S@SEXPREC#S0_#S0_#S0_#I#"
+            }
+        ],
+        "file" : "/home/stuart/GitStuff/birch/src/ll_Leaf.cc",
+        "file_last_write" : 1579727697
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 16,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+                "kind" : 7,
+                "line" : 25,
+                "name" : "copyTreeLeafNode(LeafNode *, int *, int *, int *, int *, int *, int *)",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@copyTreeLeafNode#*$@C@LeafNode#*I#S2_#S2_#S2_#S2_#S2_#"
+            },
+            {
+                "column" : 16,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+                "kind" : 7,
+                "line" : 104,
+                "name" : "addToNode(double *, int)",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@addToNode#*d#I#"
+            },
+            {
+                "column" : 18,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+                "kind" : 7,
+                "line" : 131,
+                "name" : "CalcNewRadius(CF &)",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@CalcNewRadius#&$@S@CF#"
+            },
+            {
+                "column" : 16,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+                "kind" : 7,
+                "line" : 141,
+                "name" : "getLeaves(vector<Leaf *> &)",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@getLeaves#&$@N@std@N@__1@C@vector>#*$@C@Leaf#$@N@std@N@__1@C@allocator>#S2_#"
+            },
+            {
+                "column" : 16,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+                "kind" : 7,
+                "line" : 148,
+                "name" : "SplitNode",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@SplitNode#"
+            },
+            {
+                "column" : 18,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+                "kind" : 7,
+                "line" : 181,
+                "name" : "calcDistances(int, int)",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@calcDistances#I#I#"
+            },
+            {
+                "column" : 16,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+                "kind" : 7,
+                "line" : 196,
+                "name" : "recalculateCenter",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@recalculateCenter#"
+            },
+            {
+                "column" : 16,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+                "kind" : 7,
+                "line" : 218,
+                "name" : "findClosest(double *, int &, double &)",
+                "parent_name" : "LeafNode",
+                "usr" : "c:@C@LeafNode@F@findClosest#*d#&I#&d#"
+            }
+        ],
+        "file" : "/home/stuart/GitStuff/birch/src/ll_LeafNode.cc",
+        "file_last_write" : 1579727697
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 48,
+                "name" : "copyTree(Node *, int *, int *, int *, int *, int *, int *)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@copyTree#*$@C@Node#*I#S2_#S2_#S2_#S2_#S2_#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 117,
+                "name" : "addToNode(double *, int)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@addToNode#*d#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 133,
+                "name" : "addToNode(Node *)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@addToNode#*$@C@Node#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 148,
+                "name" : "CalcDistance(double *)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@CalcDistance#*d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 159,
+                "name" : "findClosest(double *)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@findClosest#*d#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 186,
+                "name" : "returnData(SEXP *)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@returnData#**$@S@SEXPREC#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 214,
+                "name" : "getLeaves(vector<Leaf *> &)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@getLeaves#&$@N@std@N@__1@C@vector>#*$@C@Leaf#$@N@std@N@__1@C@allocator>#S2_#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 223,
+                "name" : "updateCenter(double *)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@updateCenter#*d#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 233,
+                "name" : "updateCenter(double *, int)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@updateCenter#*d#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 245,
+                "name" : "SplitNode",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@SplitNode#"
+            },
+            {
+                "column" : 19,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 308,
+                "name" : "calcSplit",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@calcSplit#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 355,
+                "name" : "calcDistances(int, int)",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@calcDistances#I#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+                "kind" : 7,
+                "line" : 367,
+                "name" : "recalculateCenter",
+                "parent_name" : "Node",
+                "usr" : "c:@C@Node@F@recalculateCenter#"
+            }
+        ],
+        "file" : "/home/stuart/GitStuff/birch/src/ll_Node.cc",
+        "file_last_write" : 1579727697
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 13,
+                "file" : "/home/stuart/GitStuff/birch/src/ll_other.cc",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "which_min(double *, int, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@which_min#*d#I#b#"
+            }
+        ],
+        "file" : "/home/stuart/GitStuff/birch/src/ll_other.cc",
+        "file_last_write" : 1579727697
+    }
+]
